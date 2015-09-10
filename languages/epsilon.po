@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Epsilon 1.0.0\n"
+"POT-Creation-Date: 2015-09-11 00:29+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Edi Amin <to.ediamin@gmail.com>\n"
+"Language-Team: Edi Amin <to.ediamin@gmail.com>\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:43 comments.php:67
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46 comments.php:70
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:47 comments.php:71
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:95
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:103
+msgid "Name"
+msgstr ""
+
+#: comments.php:111 inc/redux-config.php:329
+msgid "Email"
+msgstr ""
+
+#: comments.php:119
+msgid "Website"
+msgstr ""
+
+#: comments.php:126
+msgid "Comment"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:119
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/class-custom-comment-walker.php:29
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/class-custom-comment-walker.php:35
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/class-custom-comment-walker.php:51 inc/template-tags.php:68
+#: template-parts/content-page.php:28
+msgid "Edit"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:833
+#: inc/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:940
+#: inc/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2833
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1886
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2240
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2376
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2496
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2505
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#: inc/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#: inc/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cmb-config.php:18
+msgid "Metabox Title"
+msgstr ""
+
+#: inc/cmb-config.php:25
+msgid "Sample Text Box"
+msgstr ""
+
+#: inc/custom-functions.php:63
+msgid "« Prev"
+msgstr ""
+
+#: inc/custom-functions.php:64
+msgid "Next »"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:15
+#: inc/custom-post-types-and-taxonomies.php:17
+msgid "Portfolios"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:16
+#: inc/custom-post-types-and-taxonomies.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:19
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:20
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:21
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:22
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:23
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:24
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:25
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:26
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:27
+msgid "No portfolio found."
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:28
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:33
+msgid "Description."
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:52
+#: inc/custom-post-types-and-taxonomies.php:67
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:53
+msgid "Category"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:54
+msgid "Search Categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:55
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:56
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:59
+msgid "Edit Category"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:60
+msgid "Update Category"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:61
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:62
+msgid "New Category Name"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:63
+msgid "Separate categories with commas"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:64
+msgid "Add or remove categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:65
+msgid "Choose from the most used categories"
+msgstr ""
+
+#: inc/custom-post-types-and-taxonomies.php:66
+msgid "No categories found."
+msgstr ""
+
+#: inc/hooks.php:42
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: inc/hooks.php:44
+msgid "Password:"
+msgstr ""
+
+#: inc/redux-config.php:36 inc/redux-config.php:37
+msgid "Theme Options"
+msgstr ""
+
+#: inc/redux-config.php:147
+msgid "Global Settings"
+msgstr ""
+
+#: inc/redux-config.php:153
+msgid "Site Logo"
+msgstr ""
+
+#: inc/redux-config.php:159
+msgid "Favicon"
+msgstr ""
+
+#: inc/redux-config.php:165
+msgid "Footer Text"
+msgstr ""
+
+#: inc/redux-config.php:166
+msgid "This text will apear in footer"
+msgstr ""
+
+#: inc/redux-config.php:172
+msgid "Admin Bar in front-end"
+msgstr ""
+
+#: inc/redux-config.php:173
+msgid "Enable/Disable WordPress Admin Bar for all users in the front-end."
+msgstr ""
+
+#: inc/redux-config.php:181
+msgid "Dev Mode"
+msgstr ""
+
+#: inc/redux-config.php:182
+msgid "Theme development Mode. Turn it Off in production."
+msgstr ""
+
+#: inc/redux-config.php:190
+msgid "Banner/Carousel"
+msgstr ""
+
+#: inc/redux-config.php:196
+msgid "Banner or Carousel"
+msgstr ""
+
+#: inc/redux-config.php:197
+msgid "Use a Banner or a Carousel"
+msgstr ""
+
+#: inc/redux-config.php:218
+msgid "Carousel Slides"
+msgstr ""
+
+#: inc/redux-config.php:219
+msgid "Generates a bootstrap carousel"
+msgstr ""
+
+#: inc/redux-config.php:221
+msgid "Title"
+msgstr ""
+
+#: inc/redux-config.php:222
+msgid "Description"
+msgstr ""
+
+#: inc/redux-config.php:223
+msgid "URL"
+msgstr ""
+
+#: inc/redux-config.php:232
+msgid "Social Links"
+msgstr ""
+
+#: inc/redux-config.php:233
+msgid "Insert full url of your social links"
+msgstr ""
+
+#: inc/redux-config.php:240
+msgid "Active Links"
+msgstr ""
+
+#: inc/redux-config.php:241
+msgid ""
+"Add your links in text boxes below, then check it here. You can leave your "
+"links in boxes but switch off from here."
+msgstr ""
+
+#: inc/redux-config.php:242
+msgid ""
+"You can use <i class=\"el el-icon-move icon-large\"></i> icon to sort the "
+"position of the social icons"
+msgstr ""
+
+#: inc/redux-config.php:275
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-config.php:281
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-config.php:287
+msgid "Google+"
+msgstr ""
+
+#: inc/redux-config.php:293
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/redux-config.php:299
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-config.php:305
+msgid "Flickr"
+msgstr ""
+
+#: inc/redux-config.php:311
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-config.php:317
+msgid "Behance"
+msgstr ""
+
+#: inc/redux-config.php:323
+msgid "Dribbble"
+msgstr ""
+
+#: inc/redux-config.php:337
+msgid "Integration"
+msgstr ""
+
+#: inc/redux-config.php:338
+msgid "These options will place in unformatted and unescaped plain text."
+msgstr ""
+
+#: inc/redux-config.php:344
+msgid "Custom CSS Code"
+msgstr ""
+
+#: inc/redux-config.php:355
+msgid "Custom Javascript Code"
+msgstr ""
+
+#: inc/redux-config.php:366
+msgid "Code before &lt;/head> tag"
+msgstr ""
+
+#: inc/redux-config.php:367
+msgid "This code will be added before the &lt;/head> tag."
+msgstr ""
+
+#: inc/redux-config.php:372
+msgid "Code before &lt;/body> tag"
+msgstr ""
+
+#: inc/redux-config.php:373
+msgid "This code will be added before the &lt;/body> tag."
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:25
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:27
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
